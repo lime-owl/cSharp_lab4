@@ -48,7 +48,6 @@ namespace in_class4
                     Console.WriteLine("");
                     Console.WriteLine("Please enter a valid selection.");
                     userOp = Console.ReadLine();
-
                 }
             } while (gamePlay != "3");
         }
@@ -94,7 +93,6 @@ public static void bearSelect()
     Console.WriteLine("");
     Console.WriteLine("Select: ");
 }
-
 
     }
 }
