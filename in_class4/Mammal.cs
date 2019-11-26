@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 
-namespace Zoo_Console
+namespace in_class4
 {
     abstract class Mammal
     {
