@@ -7,7 +7,7 @@ namespace in_class4
         static void Main(string[] args)
         {
             Menu gamePlay = new Menu();
-            gamePlay.executeGame();
+            gamePlay.executeMenu();
         }
     }
 }
