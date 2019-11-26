@@ -1,6 +1,6 @@
-﻿using System;
+using System;
 
-namespace in_class4
+namespace Zoo_Console
 {
     class Program
     {
