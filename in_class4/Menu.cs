@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace Zoo_Console
+namespace in_class4
 {
     class Menu
     {
